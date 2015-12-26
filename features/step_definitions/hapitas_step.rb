@@ -1,4 +1,4 @@
-When(/^PC版ハピタスにアクセスすると$/) do
+When(/^PC版ハピタスのTOPページにアクセスすると$/) do
   visit 'http://hapitas.jp'
 end
 
